@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Berkay</h1>
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=600&lines=Hello+there!+I'm+Berkay;A+Data+Scientist;Working+with+NLP;)
+
 <h3 align="center">I am 21 years old. I study at Bandırma On Yedi Eylül University in the Department of Management Information Systems. I am interested in Artificial Intelligence and Data Science</h3>
 
 
